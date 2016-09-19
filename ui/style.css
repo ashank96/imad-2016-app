@@ -9,6 +9,7 @@ body {
 }
 
 .text-big {
+    border-radius:5px;
     background-color:grey;
     font-size: 300%;
 }
