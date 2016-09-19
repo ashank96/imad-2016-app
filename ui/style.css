@@ -23,3 +23,9 @@ body {
     float:left;
 }
 
+#navbar {
+	/*Add your CSS here!*/
+	
+	left:50%;
+	margin-left:-254px;
+}
