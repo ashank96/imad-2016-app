@@ -20,5 +20,6 @@ body {
 
 .img-medium {
     height: 200px;
+    float:left;
 }
 
